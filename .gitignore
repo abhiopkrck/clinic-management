@@ -1,0 +1,9 @@
+*.log
+*.sql
+vendor/
+.env
+uploads/
+*.zip
+node_modules/
+.DS_Store
+Thumbs.db
